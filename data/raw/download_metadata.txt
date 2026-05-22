@@ -1,0 +1,11 @@
+Mode: real_open_meteo
+Created time: 2026-05-22T21:50:44
+Data source: Open-Meteo Historical Weather API
+API endpoint: https://archive-api.open-meteo.com/v1/archive
+Start date: 2000-01-01
+End date: 2024-12-31
+Daily variable: precipitation_sum
+Timezone: Asia/Shanghai
+Number of cities: 7
+Number of rows: 63924
+Output file: data\raw\city_daily_precip_2000_2024.csv
