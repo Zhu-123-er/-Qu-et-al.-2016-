@@ -1,0 +1,13 @@
+name: qu2016-precip
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - requests
+  - matplotlib
+  - seaborn
+  - scipy
+  - quarto
